@@ -6,7 +6,7 @@ The game is written in JavaScript and uses HTML and CSS for the front-end. The p
 
 ## Demo
 
-You can play the game at [https://gusillus.github.io/Game-2048/](https://gusillus.github.io/Game-2048/)
+You can play the game at [Game 2048](https://gusillus.github.io/Game-2048/)
 
 ## Installation
 
